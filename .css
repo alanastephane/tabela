@@ -1,0 +1,23 @@
+table{
+    font-family:calibre;
+    border-collapse: collapse;
+    width: 100%;}
+   
+    td, th {
+  border: 1px solid #080808;
+  padding: 8px;
+  text-align: center;
+  background-color: #ffffff;}
+
+
+
+  tr:nth-child(even) {
+  background-color: #ffffff;}
+
+     .img{
+     border-radius: 50%;
+     width: 100px;
+     height: 90px;
+     margin-left: 0px;
+     justify-content: left;
+    }
